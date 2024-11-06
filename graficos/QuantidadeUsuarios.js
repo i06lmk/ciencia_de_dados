@@ -36,16 +36,16 @@ async function quantidadeUsuarios() {
                   color: getCSS('--secondary-color')
               }
           }
-      },
+      }
         yaxis: {
-          tickfont: tickConfig,
+          tickfont: tickConfig;
           title: {
-            text: 'bilhões de usuários ativos',
+            text: 'bilhões de usuários ativos';
             font: {
-              color: getCSS('--secondary-color')
+              color: getCSS('--secondary-color');
             }
           }
-      },
+      }
       
     const grafico = document.createElement('div')
     grafico.className = 'grafico'
