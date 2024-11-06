@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
 :root {
-    --bg-color: #000080;
-    --primary-color: #4169E1;
-    --secondary-color: #4682B4;
-    --secondar-color: #c1dcf1;
+    --bg-color: #006400;
+    --primary-color: #228B22;
+    --secondary-color: #32CD32;
+    --secondar-color: #90EE90;
     --font: “Nunito Sans”, sans-serif;
 }
 
