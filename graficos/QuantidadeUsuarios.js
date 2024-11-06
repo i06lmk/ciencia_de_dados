@@ -38,11 +38,11 @@ async function quantidadeUsuarios() {
           }
       }
         yaxis: {
-          tickfont: tickConfig;
+          tickfont: tickConfig
           title: {
-            text: 'bilhões de usuários ativos';
+            text: 'bilhões de usuários ativos'
             font: {
-              color: getCSS('--secondary-color');
+              color: getCSS('--secondary-color')
             }
           }
       }
