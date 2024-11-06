@@ -47,6 +47,10 @@ nav a:hover {
     transition: trasform 0.1s;/*fará a animação acontecer um pouco mais devagar*/
 }
 
+.grafico {
+    margin-top: 3rem;
+}
+
 .graficos-container {
     margin: 5rem;
    }
